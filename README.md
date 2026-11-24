@@ -1,6 +1,6 @@
 # Sanvia Sultana Ratry
-
 **Software Engineer** · Dhaka, Bangladesh
+
 Open to software engineering roles, local and remote.
 
 I build web apps with React and Next.js, and I test APIs and UIs with Playwright. I started in manual QA, moved into test automation, and I am now growing into software engineering. I practise Python regularly and I am learning more every week.
